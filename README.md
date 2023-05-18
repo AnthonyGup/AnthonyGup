@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hola :smile: me llamo Anthony Gutiérrez
 
-<!--
-**AnthonyGup/AnthonyGup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy un programador principiante apasionado por la tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Toda tecnología lo suficientemente avanzada es indistinguible de la magia" - Arthur C. Clark - Escritor de ciencia ficción
+
+---
+
+### Acerca de mi
+
+1. Actualmente estoy aprendiendo a programar en diferentes lenguajes de programación y aprender más sobre la tecnología
+
+2. Tambien estoy estudiando una Ingenieria en sistemas en una universidad
+
+```Python
+# Esto es un diccionario en Python
+acerca_de_mi = {
+    gatos: True,
+    perros: True,
+    Nacionalidad: "Guatemalteca"
+    age: 17
+}
+
+```
+
+![TEXTO ALTERNATIVO](/imagenes/hacker.jpg)
